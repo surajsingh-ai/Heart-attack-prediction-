@@ -1,2 +1,6 @@
  pip install joblib
+scikit-learn
+pandas
+numpy
+streamlit
 
