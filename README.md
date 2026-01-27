@@ -1,12 +1,12 @@
 # Heart Attack Prediction
 
-[![Deployed on Vercel](https://img.shields.io/badge/deployed%20on-Vercel-black?logo=vercel&logoColor=white)](https://heart-attack-prediction-sooty.vercel.app/)
+[![Deployed on Vercel](https://img.shields.io/badge/deployed%20on-Vercel-black?logo=vercel&logoColor=white)](https://machine-learning-project-2-onop.onrender.com/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A machine learning web application that predicts the risk of heart attack using clinical and demographic features. The model uses K-Nearest Neighbors (KNN) algorithm and is deployed as a serverless application on Vercel.
 
-**Live Demo:** https://heart-attack-prediction-sooty.vercel.app/
+**Live Demo:** https://machine-learning-project-2-onop.onrender.com/
 
 ---
 
@@ -316,7 +316,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Get Help
 - 📧 Open an issue on GitHub
 - 💬 Start a discussion
-- 🌐 Visit the live demo: https://heart-attack-prediction-sooty.vercel.app/
+- 🌐 Visit the live demo: https://machine-learning-project-2-onop.onrender.com/
 
 ---
 
