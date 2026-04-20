@@ -6,7 +6,7 @@
 
 A machine learning web application that predicts the risk of heart attack using clinical and demographic features. The model uses K-Nearest Neighbors (KNN) algorithm and is deployed as a serverless application on Vercel.
 
-**Live Demo:** https://machine-learning-project-2-onop.onrender.com/
+**Live Demo:** [https://machine-learning-project-2-onop.onrender.com/](https://machine-learning-project-2-onop.onrender.com/)
 
 ---
 
@@ -179,7 +179,7 @@ Make a prediction request with patient data.
 
 1. **Push code to GitHub**
 2. **Connect repository to Vercel:**
-   - Go to [Vercel Dashboard](https://vercel.com/dashboard)
+   - Go to [(https://vercel.com/dashboard)](https://machine-learning-project-2-onop.onrender.com/)
    - Click "Add New" → "Project"
    - Import your GitHub repository
 3. **Configure build settings:**
@@ -316,7 +316,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Get Help
 - 📧 Open an issue on GitHub
 - 💬 Start a discussion
-- 🌐 Visit the live demo: https://machine-learning-project-2-onop.onrender.com/
+- 🌐 Visit the live demo: [https://machine-learning-project-2-onop.onrender.com/](https://machine-learning-project-2-onop.onrender.com/)
 
 ---
 
